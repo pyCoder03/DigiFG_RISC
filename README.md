@@ -1,3 +1,5 @@
+# DigiFG_RISC
+
 ## Description
 
 DigiFG_RISC is a “digital” waveform generated that is to be implemented on RISCduino, a RISC-V based development board.
