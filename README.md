@@ -16,12 +16,15 @@ Partial outputs were simulated using Arduino UNO on Proteus
 
 ### Sine wave
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5b454901-597f-4fc7-ad88-5cdaccba61fa/f15a9326-1c77-4ca2-8786-762ccc209c0f/Untitled.png)
+![image](https://github.com/pyCoder03/DigiFG_RISC/assets/93860462/30ed67ca-6af3-4fe3-88bd-268a041eeb32)
+
 
 ### Triangular wave
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5b454901-597f-4fc7-ad88-5cdaccba61fa/6d078fc1-74d4-4754-9998-573c9d58fbf5/Untitled.png)
+![image](https://github.com/pyCoder03/DigiFG_RISC/assets/93860462/3a0fe2da-5711-4792-b27f-31b8960dca12)
+
 
 ### Square wave
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5b454901-597f-4fc7-ad88-5cdaccba61fa/fc6dd495-267c-4d47-8e80-1ecbe588ad9e/Untitled.png)
+![image](https://github.com/pyCoder03/DigiFG_RISC/assets/93860462/0379ac7f-3d63-4fc4-866b-404454e69ba1)
+
