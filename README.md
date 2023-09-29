@@ -12,7 +12,7 @@ As of now, the Function Generator is able to generate **************************
 
 ## Outputs
 
-Partial outputs were simulated using Arduino UNO on Proteus
+Partial outputs were simulated using Arduino UNO on Proteus.
 
 ### Sine wave
 
